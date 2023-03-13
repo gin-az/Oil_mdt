@@ -1,4 +1,4 @@
-import React, { useRef } from 'react';
+import React from 'react';
 import './App.css';
 import { IDataToDay, OilTable } from './components/OilTable';
 import { useActions } from './hooks/useAction';
